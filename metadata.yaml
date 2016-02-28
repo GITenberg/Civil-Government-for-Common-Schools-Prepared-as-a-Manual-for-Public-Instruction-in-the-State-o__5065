@@ -1,0 +1,22 @@
+_repo: Civil-Government-for-Common-Schools-Prepared-as-a-Manual-for-Public-Instruction-in-the-State-o__5065
+creator:
+  author:
+    agent_name: Northam, Henry C.
+    gutenberg_agent_id: '1682'
+    url: http://www.gutenberg.org/2009/agents/1682
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- Handbooks, manuals, etc.'
+- !lcsh 'New York (State) -- Politics and government'
+- !lcc 'JK'
+title: "Civil Government for Common Schools\r\nPrepared as a Manual for Public Instruction\
+  \ in the State of New York"
+url: http://www.gutenberg.org/ebooks/5065
