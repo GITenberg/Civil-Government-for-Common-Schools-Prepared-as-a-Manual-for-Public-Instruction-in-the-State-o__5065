@@ -1,5 +1,5 @@
 _repo: Civil-Government-for-Common-Schools-Prepared-as-a-Manual-for-Public-Instruction-in-the-State-o__5065
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -23,6 +23,7 @@ subjects:
 - !lcsh 'United States -- Politics and government -- Handbooks, manuals, etc.'
 - !lcsh 'New York (State) -- Politics and government'
 - !lcc 'JK'
+- GITenberg
 title: "Civil Government for Common Schools\r\nPrepared as a Manual for Public Instruction\
   \ in the State of New York"
 url: http://www.gutenberg.org/ebooks/5065
